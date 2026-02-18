@@ -8,7 +8,7 @@ del libro "Flex & Bison" de John Levine.
 - ejemplos -> Ejemplos del libro
 - ejercicios -> Ejercicios resueltos
 
-## 🛠Requisitos
+## Requisitos
 
 - flex
 - bison
