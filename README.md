@@ -21,3 +21,7 @@ del libro "Flex & Bison" de John Levine.
 bison -d archivo.y
 flex archivo.l
 gcc archivo.tab.c lex.yy.c -o programa -lfl
+ejemplo -
+ bison -d ej6.y
+flex ej6.l
+gcc ej6.tab.c lex.yy.c -o ej6 -lfl
