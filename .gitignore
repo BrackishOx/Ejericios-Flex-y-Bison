@@ -1,14 +1,20 @@
-# Archivos generados por Flex
+# Flex
 lex.yy.c
 
-# Archivos generados por Bison
+# Bison
 *.tab.c
 *.tab.h
 
-# Ejecutables
-ej*
-ejemplo*
-calc*
+# Ejecutables específicos
+ej1
+ej2
+ej3
+ej4
+ej5
+ej6
+ejemplo4calc
+calc
 
-# Archivos objeto
+# Objetos
 *.o
+
